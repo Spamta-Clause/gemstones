@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my public notes.
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here you can find the different primers for the campaign options, and that's about it.
