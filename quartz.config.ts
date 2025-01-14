@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Dungeons & Dragons",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,32 +24,33 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Cinzel Decorative",
+        body: "Eagle Lake",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f4ecd8",           // Sepia-like background for light mode
+          lightgray: "#d1c6b1",       // Warmer gray for light mode, matching sepia tones
+          gray: "#a59e8f",            // A softer gray to blend with the sepia background
+          darkgray: "#6e5e4f",        // Darker gray that complements sepia
+          dark: "#2b2b2b",            // Dark background color for light mode
+          secondary: "#9C1C1C",       // D&D Red (secondary color)
+          tertiary: "#84a59d",        // Soft teal for secondary elements
+          highlight: "rgba(143, 159, 169, 0.15)",  // Subtle highlight
+          textHighlight: "#fff23688", // Text highlight with a golden tint      
         },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+      
+      darkMode: {
+          light: "#161618",           // Dark background for dark mode
+          lightgray: "#393639",       // Darker gray for dark mode
+          gray: "#646464",            // Standard gray
+          darkgray: "#d4d4d4",        // Lighter gray for contrasts
+          dark: "#ebebec",            // Light background for dark mode
+          secondary: "#2cc9c0",       // Terraria Teal (new color for secondary)
+          tertiary: "#84a59d",        // Soft teal for secondary elements
+          highlight: "rgba(143, 159, 169, 0.15)",  // Subtle highlight
+          textHighlight: "#b3aa0288", // Text highlight with a yellowish tint
         },
       },
     },
