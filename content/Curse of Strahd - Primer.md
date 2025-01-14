@@ -1,0 +1,3 @@
+[History of Barovia (Stop at 2:10)](https://www.youtube.com/watch?v=YmSodwFWh7Y)
+
+Curse of Strahd takes primarily takes place in dark demiplane of Barovia, a cursed land shrouded in eternal mist ruled by the vampire, Strahd von Zarovich. This world is in stark contrast to that of Exandria with gothic horror, tragic stories, and moments of helplessness. The towns within Barovia are dark, and primarily populated by two races of humans, the Barovians, a grim insular people and the Visitani, a nomadic  people travelling throughout the domains of dread.
