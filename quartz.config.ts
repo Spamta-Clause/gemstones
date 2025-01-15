@@ -36,7 +36,7 @@ const config: QuartzConfig = {
           darkgray: "#6e5e4f",        // Darker gray that complements sepia
           dark: "#2b2b2b",            // Dark background color for light mode
           secondary: "#9C1C1C",       // D&D Red (secondary color)
-          tertiary: "#84a59d",        // Soft teal for secondary elements
+          tertiary: "#f57373",
           highlight: "rgba(143, 159, 169, 0.15)",  // Subtle highlight
           textHighlight: "#fff23688", // Text highlight with a golden tint      
         },
